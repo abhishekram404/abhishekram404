@@ -3,7 +3,8 @@
 ## 👦 Intro
 Hello folks,
 it's me **Keshav Kishor Ram (abhishek)**. I am a React/Next Developer. 
-And I am currently learning MERN stack development.
+I am currently learning MERN stack development.
+And I am studying Bachelors in Computer Applications(BCA) at Nepal College of Information Technology (NCIT) Balkumari, Lalitpur.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekram404&color=blueviolet&style=flat">
