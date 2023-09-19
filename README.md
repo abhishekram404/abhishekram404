@@ -2,7 +2,7 @@
 
 ## 👦 Intro
 Hello folks,
-it's me **Keshav Kishor Ram (abhishek)**. I am a React/Next Developer. 
+it's me **Keshav Kishor Ram (abhishek)**. I am currently working as a Front-end Engineer (React) at <a href="https://kwant.ai">Kwant AI</a>. 
 
 I also know the MERN stack.
 
