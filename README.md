@@ -1,31 +1,93 @@
-# abhishekram404
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## 👦 Intro
-Hello folks,
-it's me **Keshav Kishor Ram (abhishek)**. I am currently working as a Front-end Engineer (React) at <a href="https://kwant.ai">Kwant AI</a>. 
+###
 
-I also know the MERN stack.
+<p align="left">My name is Keshav and I'm a Frontend Engineer from Kathmandu, Nepal.</p>
 
-And I am studying Bachelors in Computer Applications(BCA) at Nepal College of Information Technology (NCIT) Balkumari, Lalitpur.
+###
 
-[![wakatime](https://wakatime.com/badge/user/9ef34678-284f-4667-b221-ef57dba725e2.svg)](https://wakatime.com/@9ef34678-284f-4667-b221-ef57dba725e2)
+<h2 align="left">About me</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekram404&color=blueviolet&style=flat">
-  
-  
-</p>
+###
 
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning backend with Nest JS, PostgreSQL, and TypeORM.<br>🎯 Goals: Master frontend  and become a fullstack dev eventually.<br>🎲 Fun fact: Javascript is my favorite language.</p>
 
-## 🚀 Skills
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next JS" /><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux JS" /><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket IO" /><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT" /><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" /><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongo DB" /><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+###
 
+<h2 align="left">I code with</h2>
 
-<!-- ## 💙 Contributions detail -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=abhishekram404&theme=radical" /> -->
-<!-- <img src="http://github-readme-streak-stats.herokuapp.com?user=abhishekram404&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekram404&theme=radical" />  -->
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+</div>
 
-### 🔍 Find me on
-<a href="https://www.linkedin.com/in/abhishekram404/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.facebook.com/abhishekram404/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.instagram.com/__abhishekram/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.sololearn.com/profile/6801745" target="_blank"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/></a> <a href="https://www.discord.com/users/577444294219005985" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+###
+
+<h2 align="center"></h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/abhishekram404/abhishekram404/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="center"></h2>
+
+###
+
+<p align="center">Profile Views</p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abhishekram404/count.svg?"  />
+</div>
+
+###
+
+<h2 align="center"></h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/abhishekram404/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto://githubreadme@keshavram.com.np" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.discord.com/users/577444294219005985" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
