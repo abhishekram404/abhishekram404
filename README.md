@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Keshav and I'm a Frontend Engineer from Kathmandu, Nepal.</p>
+<p align="left">My name is Keshav and I'm a Software Engineer from Kathmandu, Nepal.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning backend with Nest JS, PostgreSQL, and TypeORM.<br>🎯 Goals: Master frontend  and become a fullstack dev eventually.<br>🎲 Fun fact: Javascript is my favorite language.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm mostly working with Nest JS, PostgreSQL, and TypeORM.<br>🎯 Goals: Master fullstack development and and learn DevOps.<br>🎲 Fun fact: Javascript is my favorite language.</p>
 
 ###
 
