@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm mostly working with Nest JS, PostgreSQL, and TypeORM.<br>🎯 Goals: Master fullstack development and and learn DevOps.<br>🎲 Fun fact: Javascript is my favorite language.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I mostly work with Nest JS, PostgreSQL, Prisma, TypeORM, and React.<br>🎯 Hobbies: Cooking, Self-hosting/homelab, DevOps, System Design.
 
 ###
 
