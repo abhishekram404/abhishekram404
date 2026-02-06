@@ -55,8 +55,7 @@
 <h2 align="center"></h2>
 
 ###
-
-<img src="https://raw.githubusercontent.com/abhishekram404/abhishekram404/output/snake.svg" alt="Snake animation" />
+![My GitHub Game](game.gif)
 
 ###
 
